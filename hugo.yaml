@@ -5,6 +5,17 @@ theme: PaperMod
 
 enableEmoji: true
 
+outputs:
+  home:
+    - HTML
+    - RSS
+    - JSON # necessary for search
+
+menu:
+  main:
+    - name: Search
+      url: search
+
 params:
   profileMode:
     enabled: true
