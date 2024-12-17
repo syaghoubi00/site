@@ -24,3 +24,7 @@ params:
         url: posts
       - name: Archives
         url: archives
+
+  assets:
+    cover:
+      hiddenInSingle: false
