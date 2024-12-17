@@ -17,6 +17,8 @@ menu:
       url: search
 
 params:
+  showToc: true
+
   profileMode:
     enabled: true
     buttons:
