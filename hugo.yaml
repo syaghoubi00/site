@@ -25,6 +25,7 @@ params:
   ShowCodeCopyButtons: true
   ShowPostNavLinks: true # add navigation buttons at the end of a single post
   ShowBreadcrumbs: true # adds breadcrumb navigation above posts title
+  ShowRssButtonInSectionTermList: true # show RSS feed button on sections
 
   profileMode:
     enabled: true
