@@ -18,6 +18,7 @@ menu:
 
 params:
   showToc: true
+  ShowCodeCopyButtons: true
 
   profileMode:
     enabled: true
@@ -27,7 +28,15 @@ params:
       - name: Archives
         url: archives
 
+  assets:
+    disableHLJS: true # disable Highlight.js to use Hugo native Chroma syntax hl
+
   cover:
     hidden: true # hide everywhere but not in structured data
     hiddenInList: true # hide on list pages and home
     hiddenInSingle: false # show on single page
+
+markup:
+  highlight:
+    lineNos: true
+    style: gruvbox
