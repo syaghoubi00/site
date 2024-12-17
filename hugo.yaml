@@ -13,8 +13,12 @@ outputs:
 
 menu:
   main:
+    - name: Archive
+      url: archives
+      weight: 10
     - name: Search
       url: search
+      weight: 20
 
 params:
   showToc: true
@@ -27,8 +31,6 @@ params:
     buttons:
       - name: Blog
         url: posts
-      - name: Archives
-        url: archives
 
   assets:
     disableHLJS: true # disable Highlight.js to use Hugo native Chroma syntax hl
