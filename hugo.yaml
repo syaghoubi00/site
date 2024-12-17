@@ -6,3 +6,8 @@ theme: PaperMod
 params:
   profileMode:
     enabled: true
+    buttons:
+      - name: Blog
+        url: posts
+      - name: Archives
+        url: archives
