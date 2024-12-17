@@ -19,6 +19,8 @@ menu:
 params:
   showToc: true
   ShowCodeCopyButtons: true
+  ShowPostNavLinks: true # add navigation buttons at the end of a single post
+  ShowBreadcrumbs: true # adds breadcrumb navigation above posts title
 
   profileMode:
     enabled: true
