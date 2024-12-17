@@ -3,6 +3,8 @@ languageCode: en-us
 title: "zags.dev"
 theme: PaperMod
 
+enableEmoji: true
+
 params:
   profileMode:
     enabled: true
