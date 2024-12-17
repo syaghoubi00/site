@@ -1,0 +1,8 @@
+baseURL: "https://zags.dev"
+languageCode: en-us
+title: "zags.dev"
+theme: PaperMod
+
+params:
+  profileMode:
+    enabled: true
