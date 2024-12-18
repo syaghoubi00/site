@@ -36,6 +36,10 @@ params:
 
   profileMode:
     enabled: true
+    title: "Welcome to my site :wave:"
+    subtitle: ""
+    imageUrl: "https://github.com/syaghoubi00.png"
+    imageTitle: "Profile Photo"
     buttons:
       - name: Blog
         url: posts
