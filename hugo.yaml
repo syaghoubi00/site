@@ -14,7 +14,7 @@ outputs:
 menu:
   main:
     - name: Archive
-      url: archives
+      url: archive
       weight: 10
     - name: Search
       url: search

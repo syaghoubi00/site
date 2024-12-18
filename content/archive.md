@@ -1,5 +1,5 @@
 ---
 title: "Archive"
 layout: "archives"
-summary: archives
+summary: "An Archive of my Posts"
 ---
