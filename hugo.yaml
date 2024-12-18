@@ -50,9 +50,6 @@ params:
       title: "Follow me on GitHub"
       url: "https://github.com/syaghoubi00"
 
-  assets:
-    disableHLJS: true # disable Highlight.js to use Hugo native Chroma syntax hl
-
   cover:
     hidden: true # hide everywhere but not in structured data
     hiddenInList: true # hide on list pages and home
