@@ -1,5 +1,5 @@
 ---
 title: "Search"
-layout: "search" # necessary for search
+layout: "search"
 placeholder: "What are you looking for?"
 ---
