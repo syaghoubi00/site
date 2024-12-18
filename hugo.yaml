@@ -77,4 +77,4 @@ params:
 markup:
   highlight:
     lineNos: true
-    style: gruvbox
+    noClasses: false
