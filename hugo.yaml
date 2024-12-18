@@ -28,11 +28,11 @@ menu:
 
 params:
   showToc: true
-  ShowCodeCopyButtons: true
-  ShowPostNavLinks: true # add navigation buttons at the end of a single post
-  ShowBreadcrumbs: true # adds breadcrumb navigation above posts title
-  ShowRssButtonInSectionTermList: true # show RSS feed button on sections
-  ShowReadingTime: true
+  showCodeCopyButtons: true
+  showPostNavLinks: true # add navigation buttons at the end of a single post
+  showBreadcrumbs: true # adds breadcrumb navigation above posts title
+  showRssButtonInSectionTermList: true # show RSS feed button on sections
+  showReadingTime: true
 
   profileMode:
     enabled: true
