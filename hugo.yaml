@@ -38,8 +38,16 @@ params:
 
   profileMode:
     enabled: true
-    title: "Welcome to my site :wave:"
-    subtitle: ""
+    title: "Sebastian Yaghoubi"
+    subtitle: |
+      ---
+      Economics and Computer Information Science Student :student:
+
+      Algorithmic Trader by Day :sun_with_face:
+
+      Infrastructure Engineer by Night :first_quarter_moon_with_face:
+
+      ---
     imageUrl: "https://github.com/syaghoubi00.png"
     imageTitle: "Profile Photo"
     buttons:
