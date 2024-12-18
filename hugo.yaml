@@ -33,6 +33,7 @@ params:
   showBreadcrumbs: true # adds breadcrumb navigation above posts title
   showRssButtonInSectionTermList: true # show RSS feed button on sections
   showReadingTime: true
+  showShareButtons: true
 
   profileMode:
     enabled: true
