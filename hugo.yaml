@@ -34,6 +34,7 @@ params:
   showRssButtonInSectionTermList: true # show RSS feed button on sections
   showReadingTime: true
   showShareButtons: true
+  comments: true
 
   profileMode:
     enabled: true
@@ -75,3 +76,7 @@ markup:
   highlight:
     lineNos: true
     noClasses: false
+
+services:
+  disqus:
+    shortname: "zags-dev"
