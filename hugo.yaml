@@ -57,6 +57,11 @@ params:
     hiddenInList: true # hide on list pages and home
     hiddenInSingle: false # show on single page
 
+  editPost:
+    url: "https://github.com/syaghoubi00/site/tree/master/content"
+    text: "Suggest a Change"
+    appendFilePath: true # append path of post to edit link
+
 markup:
   highlight:
     lineNos: true
