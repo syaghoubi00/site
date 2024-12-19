@@ -4,7 +4,6 @@ title: "zags.dev"
 theme: PaperMod
 
 enableEmoji: true
-enableGitInfo: true
 
 outputs:
   home:
