@@ -107,7 +107,7 @@ Instead of just providing a binary we can save directly
 to our path with something like:
 
 ```sh
-wget -qO ~/.local/bin/hugo https://github.com/gohugoio/hugo/releases/latest/download/hugo_extended_${version}_linux-amd64
+wget -qO ~/.local/bin/hugo https://github.com/gohugoio/hugo/releases/latest/download/hugo_extended_${version}_linux-amd64.tar.gz
 ```
 
 > :mag: Wait a second - `wget`? Weren't you just using `curl`?
