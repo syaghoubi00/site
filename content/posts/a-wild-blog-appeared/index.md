@@ -1,7 +1,7 @@
 ---
-date: "2024-11-16T13:31:29-08:00"
-author: "Sebastian Yaghoubi"
 title: "A Wild Blog Appears!"
+author: "Sebastian Yaghoubi"
+date: "2024-11-16T13:31:29-08:00"
 description: "Blogs and Binaries and CLI, Oh My"
 summary: |
   A technical blog has been on my to-do list for a while now.
