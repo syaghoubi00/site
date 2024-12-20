@@ -10,6 +10,7 @@ summary: |
 cover:
   image: "images/wild-pokemon-appears.jpg"
   alt: "A wild blog meme"
+tags: ["hugo", "cli"]
 ---
 
 I've been wanting to document some of the projects I'm working on,
