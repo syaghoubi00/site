@@ -1,5 +1,5 @@
 ---
-title: "A Wild Blog Appears!"
+title: "A Wild Blog Appeared!"
 author: "Sebastian Yaghoubi"
 date: "2024-11-16T13:31:29-08:00"
 description: "Blogs and Binaries and CLI, Oh My"
