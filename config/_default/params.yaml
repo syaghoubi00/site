@@ -1,0 +1,49 @@
+comments: true
+cover:
+  hidden: true # hide everywhere but not in structured data
+  hiddenInList: true # hide on list pages and home
+  hiddenInSingle: false # show on single page
+editPost:
+  appendFilePath: true # append path of post to edit link
+  text: "Suggest a Change"
+  url: "https://github.com/syaghoubi00/site/tree/master/content"
+fuseOpts: # search settings
+  distance: 1000
+  isCaseSensitive: false
+  keys: ["title", "permalink", "summary", "content"]
+  limit: 10 # refer: https://www.fusejs.io/api/methods.html#search
+  location: 0
+  minMatchCharLength: 0
+  shouldSort: true
+  threshold: 0.4
+profileMode:
+  buttons:
+    - name: Blog
+      url: posts
+  enabled: true
+  imageTitle: "Profile Photo"
+  imageUrl: "https://github.com/syaghoubi00.png"
+  subtitle: |
+    ---
+    Economics and Computer Information Science Student :student:
+
+    Algorithmic Trader by Day :sun_with_face:
+
+    Infrastructure Engineer by Night :first_quarter_moon_with_face:
+
+    ---
+  title: "Sebastian Yaghoubi"
+showBreadcrumbs: true # adds breadcrumb navigation above posts title
+showCodeCopyButtons: true
+showPostNavLinks: true # add navigation buttons at the end of a single post
+showReadingTime: true
+showRssButtonInSectionTermList: true # show RSS feed button on sections
+showShareButtons: true
+showToc: true
+socialIcons:
+  - name: GitHub
+    title: "Follow me on GitHub"
+    url: "https://github.com/syaghoubi00"
+  - name: Spotify
+    title: "Check out my Playlists on Spotify"
+    url: "https://open.spotify.com/user/312sumiamqqrim5njfqc3io42vzu?si=a0e230f1c38d4aa7"

@@ -1,0 +1,16 @@
+main:
+  - name: Archive
+    url: archive
+    weight: 10
+  - name: Search
+    url: search
+    weight: 20
+  - name: Tags
+    url: tags
+    weight: 30
+  - name: About
+    url: about-me
+    weight: 40
+  - name: Contact
+    url: contact
+    weight: 50
