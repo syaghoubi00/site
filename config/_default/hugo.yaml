@@ -3,3 +3,4 @@ enableGitInfo: true
 languageCode: en-us
 theme: PaperMod
 title: "zags.dev"
+titleCaseStyle: none
