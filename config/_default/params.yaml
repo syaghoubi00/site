@@ -15,6 +15,7 @@ fuseOpts: # search settings
   minMatchCharLength: 0
   shouldSort: true
   threshold: 0.4
+math: true
 profileMode:
   buttons:
     - name: Blog
