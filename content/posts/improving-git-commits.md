@@ -14,7 +14,7 @@ While developers use Git commits daily, many overlook their importance as a
 communication tool.
 
 I recently explored ways to make them more meaningful - and discovered some
-surprising performance improvements worth sharing.
+surprising performance implications worth sharing.
 
 ## Why Care About Commit Formatting?
 
@@ -253,6 +253,10 @@ Some more machine details for the curious:
 - OS: Fedora 41
 - CPU: AMD EPYC 7302 (16 cores - 3GHz)
 - RAM: 128GB DDR4-2666
+- `git version 2.47.1`
+- `conform version v0.1.0-alpha.30 (43d9fb6d)`
+- `husky@9.1.7`
+- `@commitlint/cli@19.6.1`
 
 **Test Scripts**:
 
