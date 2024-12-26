@@ -439,7 +439,6 @@ graph LR;
   D-- yes -->F{Non-Node dependencies}
   F-- no -->3
   F-- yes -->4([Husky + Conform])
-
 ```
 
 ## Tool Install
