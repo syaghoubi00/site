@@ -1,7 +1,7 @@
 ---
 title: "A Wild Blog Appeared!"
 author: "Sebastian Yaghoubi"
-date: "2024-11-16T13:31:29-08:00"
+date: "2024-11-16"
 description: "Blogs and Binaries and CLI, Oh My"
 summary: |
   A technical blog has been on my to-do list for a while now.
@@ -10,7 +10,7 @@ summary: |
 cover:
   image: "images/wild-pokemon-appears.jpg"
   alt: "A wild blog meme"
-tags: ["hugo", "cli"]
+tags: ["Hugo", "CLI"]
 ---
 
 I've been wanting to document some of the projects I'm working on, and a blog
@@ -106,8 +106,8 @@ Now we are finally able to grab the archive of the latest release.
 Instead of just providing a binary we can save directly to our path with
 something like:
 
-```sh
-wget -qO ~/.local/bin/hugo https://github.com/gohugoio/hugo/releases/latest/download/hugo_extended_${version}_linux-amd64.tar.gz
+```bash
+wget -qO ~/.local/bin/hugo https://github.com/gohugoio/hugo/releases/latest/download/hugo_extended_${version:?}_linux-amd64.tar.gz
 ```
 
 > :mag: Wait a second - `wget`? Weren't you just using `curl`?
@@ -125,8 +125,8 @@ _Yay_ :confused:.
 Ok. Well this is nothing I haven't dealt with before. Some more CLI magic and we
 should be on our way.
 
-```sh
-wget -qO- https://github.com/gohugoio/hugo/releases/latest/download/hugo_extended_${version}_linux-amd64.tar.gz | tar xz hugo
+```bash
+wget -qO- https://github.com/gohugoio/hugo/releases/latest/download/hugo_extended_${version:?}_linux-amd64.tar.gz | tar xz hugo
 ```
 
 Pipe the stdout from `wget` into `tar`, extracting with `x` and decompressing
