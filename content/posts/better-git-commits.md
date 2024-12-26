@@ -426,22 +426,6 @@ The performance differences are striking:
 
 Conform is the clear winner in terms of performance.
 
-Based on the results, my decision tree is:
-
-```mermaid
-graph LR;
-  A{Needs Hook Manager}
-  A-- no -->1([Conform])
-  A-- yes -->B{Node Project}
-  B-- no -->2([pre-commit + Conform])
-  B-- yes -->D{Commit Duration Important}
-  D-- no -->3([Husky + commitlint])
-  D-- yes -->F{Non-Node dependencies}
-  F-- no -->3
-  F-- yes -->4([Husky + Conform])
-
-```
-
 ## Tool Install
 
 While most of these commands will look familiar if you checked out the benchmark
