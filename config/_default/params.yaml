@@ -22,7 +22,7 @@ profileMode:
       url: posts
   enabled: true
   imageTitle: "Profile Photo"
-  imageUrl: "https://github.com/syaghoubi00.png"
+  imageUrl: "pfp.jpg"
   subtitle: |
     ---
     Economics and Computer Information Science Student :student:
