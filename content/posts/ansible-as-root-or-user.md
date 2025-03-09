@@ -24,15 +24,15 @@ tags:
   ]
 ---
 
-While setting up some infrastructure as code (IaC) for a new project recently, I
-found myself questioning a practice I've following. As I prepared my Terraform
-(OpenTofu) and Ansible configurations to provision a virtual private server
-(VPS), a seemingly simple question emerged: should the approach I use for my
-bare metal servers be the same for cloud infrastructure?
+While setting up some infrastructure as code (IaC) for a recent project, I found
+myself questioning a practice that I've been following. As I prepared my
+Terraform (OpenTofu) and Ansible configurations to provision a virtual private
+server (VPS), a seemingly simple question emerged: should the approach I use for
+my bare metal servers be the same for cloud infrastructure?
 
 ## Introduction: The Ansible Access Dilemma
 
-For years, my standard approach has been creating a dedicated Ansible user via
+For a while, my standard approach has been creating a dedicated Ansible user via
 cloud-init with sudo permissions. This method follows industry best practices
 and is well-documented across countless DevOps resources.
 
