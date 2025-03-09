@@ -8,7 +8,6 @@ description: "While setting up some infrastructure as code (IaC) the other day,
 summary: "This post explores the pros and cons of running Ansible as Root or
   with a privileged user account, and provides practical recommendations for
   different scenarios." # displayed under post title in list
-draft: true
 # weight: 1 # pin post based on weight
 # cover:
 #     alt: "" # alt text displayed if image can't load
