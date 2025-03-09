@@ -1,5 +1,8 @@
 # A Collection of Quotes
 
+"Time and memory are true artists; they remould reality nearer to the heart's
+desire" -- John Dewey
+
 "Necessity is the mother of invention" - proverb
 
 "The obligation to endure gives us the right to know" - Jean Rostand / Rachel
