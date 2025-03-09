@@ -1,5 +1,11 @@
 # A Collection of Quotes
 
+"Anyone who has begun to think, places some portion of the world in jeopardy."
+-- John Dewey
+
+"The self is not something ready-made, but something in continuous formation
+through choice of action." -- John Dewey
+
 "Time and memory are true artists; they remould reality nearer to the heart's
 desire" -- John Dewey
 
