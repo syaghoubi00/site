@@ -1,2 +1,3 @@
+env: "production"
 comments: true
 showShareButtons: true
