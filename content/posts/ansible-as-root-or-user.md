@@ -1,11 +1,11 @@
 ---
-title: "Running Ansible: Root vs Dedicated User Approach"
+title: "Root or User? Design Considerations for Ansible in IaC"
 author: "Sebastian Yaghoubi"
 date: 2025-03-08
 description: "While setting up some infrastructure as code (IaC) the other day,
   I was faced with an interesting design decision: should I run Ansible as root
   or create a dedicated Ansible user?" # displayed under post title in single page
-summary: "This post explores the pros and cons of running Ansible as Root or
+summary: "This post explores the pros and cons of running Ansible as root or
   with a privileged user account, and provides practical recommendations for
   different scenarios." # displayed under post title in list
 # weight: 1 # pin post based on weight
