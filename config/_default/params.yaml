@@ -22,6 +22,8 @@ profileMode:
   buttons:
     - name: Blog
       url: posts
+    - name: Papers
+      url: papers
   enabled: true
   imageTitle: "Profile Photo"
   imageUrl: "pfp.jpg"
