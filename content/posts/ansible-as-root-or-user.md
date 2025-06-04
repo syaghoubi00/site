@@ -13,15 +13,8 @@ summary: "This post explores the pros and cons of running Ansible as root or
 #     alt: "" # alt text displayed if image can't load
 #     caption: "" # display caption under cover
 #     image: "<image path/url>" # image path/url
-tags:
-  [
-    "Ansible",
-    "Terraform",
-    "DevOps",
-    "Automation",
-    "Security",
-    "Infrastructure-as-Code",
-  ]
+tags: ["Ansible", "Terraform", "DevOps", "Automation", "Security", "Infrastructure-as-Code"]
+keywords: ["Ansible", "Terraform", "DevOps", "Automation", "Security", "Infrastructure-as-Code"]
 ---
 
 While setting up some infrastructure as code (IaC) for a recent project, I found
