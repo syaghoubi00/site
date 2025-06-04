@@ -11,6 +11,7 @@ cover:
   image: "images/wild-pokemon-appears.jpg"
   alt: "A wild blog meme"
 tags: ["Hugo", "CLI"]
+keywords: ["Hugo", "CLI", "Blog", "Static Site Generator"]
 ---
 
 I've been wanting to document some of the projects I'm working on, and a blog

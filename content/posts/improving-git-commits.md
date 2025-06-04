@@ -5,6 +5,7 @@ date: "2024-12-21"
 description: "Enforcing Clarity: Automating Clear and Consistent Git Histories"
 summary: "A deep dive into structuring and automating better Git commits"
 tags: ["Git", "CLI", "Development"]
+keywords: ["Git", "commit", "conventional commits", "conform", "pre-commit", "husky", "commitlint"]
 ---
 
 > _Why is this commit message just 'fix stuff'?_

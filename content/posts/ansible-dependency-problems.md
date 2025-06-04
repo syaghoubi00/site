@@ -13,6 +13,7 @@ summary: |
 #     caption: "" # display caption under cover
 #     image: "<image path/url>" # image path/url
 tags: ["Ansible", "DevOps", "Automation", "Homelab", "Infrastructure-as-Code"]
+keywords: ["Ansible", "Dependency Management", "DevOps", "Homelab", "Automation"]
 ---
 
 Well folks, buckle up for a story that wasn't supposed to be a story at all.
