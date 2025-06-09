@@ -10,8 +10,6 @@ keywords:
   ["Open Source", "Closed Source", "IT Infrastructure", "Licensing Models"]
 ---
 
-## Memo of Transmittal
-
 This report contains guidance in regards to choosing licensing models to base an
 information technology infrastructure on. Both open source and closed source
 technology can come with benefits and drawbacks, this report highlights some of
