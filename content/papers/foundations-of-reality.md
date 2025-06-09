@@ -2,7 +2,7 @@
 title: "Foundations of Reality"
 authors: "Sebastian Yaghoubi"
 date: 2022-05-28
-description: "An exploration of the philosophical theories surrounding the nature of reality and consciousness, examining monism, dualism, and alternative perspectives."
+summary: "An exploration of the philosophical theories surrounding the nature of reality and consciousness, examining monism, dualism, and alternative perspectives."
 tags: ["philosophy", "reality", "ontology", academic"]
 keywords: ["reality", "consciousness", "ontology", "philosophy", "monism", "dualism", "eliminativism", "panpsychism", "mysterianism"]
 ---
@@ -13,7 +13,7 @@ This paper examines fundamental ontological questions about the nature of realit
 
 ## Introduction
 
-One of the most fundamental questions in philosophy and science is "what is real?" The field of ontology, a branch of metaphysics, addresses this question by examining the nature of reality and existence. Through ontological inquiry, we can explore critical questions about the source of reality and how we might substantiate our claims about it. 
+One of the most fundamental questions in philosophy and science is "what is real?" The field of ontology, a branch of metaphysics, addresses this question by examining the nature of reality and existence. Through ontological inquiry, we can explore critical questions about the source of reality and how we might substantiate our claims about it.
 
 A central challenge in studying reality is determining the "location" of consciousness, what is commonly known as the mind-body problem. This problem investigates whether consciousness resides primarily in the mental or physical domain. While numerous theories attempt to resolve this dichotomy, philosophy faces an inherent limitation: metaphysical propositions often resist quantifiable verification. Given this constraint, a methodical approach involves evaluating competing theories on their merits to develop a coherent understanding based on cumulative philosophical insights. Through this process, we can better investigate whether reality and consciousness exist as physical entities, mental phenomena, or some combination thereof.
 
@@ -25,7 +25,7 @@ Monism holds that reality consists of a single fundamental substance or principl
 
 #### Physicalism
 
-Physicalism represents a prominent monist theory asserting that mental states are ultimately physical in nature. According to this view, consciousness emerges from the neurobiological processes of the brain. The distinctive features of consciousness—including subjective experiences and intentionality—are explained as products of particular physical arrangements and processes (Stoljar). 
+Physicalism represents a prominent monist theory asserting that mental states are ultimately physical in nature. According to this view, consciousness emerges from the neurobiological processes of the brain. The distinctive features of consciousness—including subjective experiences and intentionality—are explained as products of particular physical arrangements and processes (Stoljar).
 
 The physicalist account maintains that modifying the underlying physical or biological structures would necessarily alter consciousness. This perspective aligns with scientific materialism and offers the advantage of methodological continuity with the natural sciences. However, physicalism struggles to explain how purely physical processes give rise to subjective experience—what philosopher David Chalmers terms the "hard problem of consciousness."
 
@@ -55,7 +55,7 @@ A persistent challenge for dualist theories is explaining how the mental and phy
 
 ### Functionalism and Multiple Realizability
 
-Daniel Dennett offers a functionalist account of consciousness that focuses on the functional role of mental states rather than their physical substrate. In his thought experiment "Where Am I?", Dennett explores how consciousness might be replicated or transferred to different physical media, such as computers (Dennett). 
+Daniel Dennett offers a functionalist account of consciousness that focuses on the functional role of mental states rather than their physical substrate. In his thought experiment "Where Am I?", Dennett explores how consciousness might be replicated or transferred to different physical media, such as computers (Dennett).
 
 This perspective suggests that consciousness depends on information processing patterns rather than specific physical compositions. However, Dennett's example still requires some physical implementation for consciousness to exist, which some interpret as support for a sophisticated form of physicalism. The functionalist approach introduces the concept of multiple realizability -- the idea that mental states can be instantiated in different physical systems provided they maintain the appropriate functional organization.
 
@@ -99,24 +99,24 @@ Berkeley, George. "To Be Is to Be Perceived." A Treatise Concerning the Principl
 
 Chalmers, David J. "Facing Up to the Problem of Consciousness." Journal of Consciousness Studies, vol. 2, no. 3, 1995, pp. 200-219.
 
-Dennett, Daniel C. "Where Am I?" The MIT Press, 1978, https://www.lehigh.edu/~mhb0/Dennett-WhereAmI.pdf/.
+Dennett, Daniel C. "Where Am I?" The MIT Press, 1978, <https://www.lehigh.edu/~mhb0/Dennett-WhereAmI.pdf/>.
 
 Descartes, René, et al. "Meditations I and II." The Philosophical Works of Descartes, Cambridge University Press, Cambridge, UK, 1967.
 
-McGinn, Colin. "Can We Solve the Mind--Body Problem?" Mind, vol. 98, no. 391, 1989, pp. 349–66. JSTOR, http://www.jstor.org/stable/2254848.
+McGinn, Colin. "Can We Solve the Mind--Body Problem?" Mind, vol. 98, no. 391, 1989, pp. 349–66. JSTOR, <http://www.jstor.org/stable/2254848>.
 
-Nagel, Thomas. “What Is It Like to Be a Bat?” The Philosophical Review, vol. 83, no. 4, 1974, pp. 435–50. JSTOR, https://doi.org/10.2307/2183914.
+Nagel, Thomas. “What Is It Like to Be a Bat?” The Philosophical Review, vol. 83, no. 4, 1974, pp. 435–50. JSTOR, <https://doi.org/10.2307/2183914>.
 
-Parkes, Graham. "The Awareness of Rocks." Skrbina David, ed. Mind that Abides. Chapter 17, https://grahamparkes.net/core/elfinder/files/pdf/E8-Parkes-The_Awareness_of_Rock.pdf/.
+Parkes, Graham. "The Awareness of Rocks." Skrbina David, ed. Mind that Abides. Chapter 17, <https://grahamparkes.net/core/elfinder/files/pdf/E8-Parkes-The_Awareness_of_Rock.pdf/>.
 
-Robinson, Howard, "Dualism", The Stanford Encyclopedia of Philosophy (Fall 2020 Edition), Edward N. Zalta (ed.), https://plato.stanford.edu/archives/fall2020/entries/dualism/.
+Robinson, Howard, "Dualism", The Stanford Encyclopedia of Philosophy (Fall 2020 Edition), Edward N. Zalta (ed.), <https://plato.stanford.edu/archives/fall2020/entries/dualism/>.
 
-Schaffer, Jonathan, "Monism", The Stanford Encyclopedia of Philosophy (Winter 2018 Edition), Edward N. Zalta (ed.), https://plato.stanford.edu/archives/win2018/entries/monism/.
+Schaffer, Jonathan, "Monism", The Stanford Encyclopedia of Philosophy (Winter 2018 Edition), Edward N. Zalta (ed.), <https://plato.stanford.edu/archives/win2018/entries/monism/>.
 
-Skrbina, David. "Panpsychism." Internet Encyclopedia of Philosophy, https://iep.utm.edu/panpsych/.
+Skrbina, David. "Panpsychism." Internet Encyclopedia of Philosophy, <https://iep.utm.edu/panpsych/>.
 
-Stoljar, Daniel, "Physicalism", The Stanford Encyclopedia of Philosophy (Summer 2022 Edition), Edward N. Zalta (ed.), https://plato.stanford.edu/archives/sum2022/entries/physicalism/.
+Stoljar, Daniel, "Physicalism", The Stanford Encyclopedia of Philosophy (Summer 2022 Edition), Edward N. Zalta (ed.), <https://plato.stanford.edu/archives/sum2022/entries/physicalism/>.
 
-Tomasik, Brian. "The Eliminativist Approach to Consciousness." Center on Long-Term Risk, 15 June 2020, https://longtermrisk.org/the-eliminativist-approach-to-consciousness/.
+Tomasik, Brian. "The Eliminativist Approach to Consciousness." Center on Long-Term Risk, 15 June 2020, <https://longtermrisk.org/the-eliminativist-approach-to-consciousness/>.
 
 Tononi, Giulio. "Integrated Information Theory of Consciousness: An Updated Account." Archives Italiennes de Biologie, vol. 150, no. 4, 2012, pp. 293-329.
