@@ -1,7 +1,7 @@
 ---
 title: "Strategic Cloud Adoption: A Guide for Organizational Implementation"
 authors: "Sebastian Yaghoubi"
-description: "This paper explores the strategic considerations and technical factors organizations must evaluate when adopting cloud computing, providing a framework for informed decision-making."
+summary: "This paper explores the strategic considerations and technical factors organizations must evaluate when adopting cloud computing, providing a framework for informed decision-making."
 date: "2024-12-09"
 keywords: ["cloud computing", "organizational strategy", "IT infrastructure", "data management", "security", "compliance"]
 tags: ["cloud computing", "IT strategy", "data management", "security", "compliance"]
