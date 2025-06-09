@@ -15,8 +15,6 @@ During the planning phase of infrastructure choosing an adequate foundation is e
 
 This report concludes that while businesses of all sizes can benefit from open source, there are some caveats to consider during the infrastructure planning phase. The primary factor to be considered is the size of an organization's information technology staff, as some open source projects may not offer support contracts. Support, while not unique to closed source, is often more available due to the proprietary nature of closed source technologies.
 
-My recommendation based on the findings of this report is for your business to use open source technology wherever possible for the upcoming infrastructure rebuild. The closed source technologies in use should also be replaced to avoid future problems associated with closed source technology. Your current business model is high growth with a moderately sized information technology staff. This business model requires both the ability to rapidly scale and remain flexible to change. The information technology staff in place removes the requirement for external software support. This business model highly favors open source technology and will provide many benefits over existing infrastructure solutions.
-
 ## Executive Summary
 
 ### Purpose of Report
