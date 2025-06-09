@@ -1,6 +1,6 @@
 ---
 title:
-  "Addiction: Behavioral and Neural Predispositions --- An Evolutionary
+  "Addiction: Behavioral and Neural Predispositions - An Evolutionary
   Perspective"
 author: "Sebastian Yaghoubi"
 summary:
