@@ -8,7 +8,19 @@ summary:
   both substance and behavioral addictions reflect the interaction between
   evolved neural mechanisms and modern environmental contexts."
 date: 2025-05-23
-keywords: ["addiction", "evolutionary psychology", "neuroplasticity", "reward processing", "behavioral addiction", "substance use disorders", "evolutionary mismatch", "dopamine", "stress response", "treatment approaches"]
+keywords:
+  [
+    "addiction",
+    "evolutionary psychology",
+    "neuroplasticity",
+    "reward processing",
+    "behavioral addiction",
+    "substance use disorders",
+    "evolutionary mismatch",
+    "dopamine",
+    "stress response",
+    "treatment approaches",
+  ]
 tags: ["addiction", "neuroscience", "behavior", "school", "research"]
 ---
 
