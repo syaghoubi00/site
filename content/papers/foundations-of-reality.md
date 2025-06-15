@@ -6,7 +6,7 @@ summary:
   "An exploration of the philosophical theories surrounding the nature of
   reality and consciousness, examining monism, dualism, and alternative
   perspectives."
-tags: ["philosophy", "reality", "ontology", academic"]
+tags: ["philosophy", "reality", "ontology", "academic"]
 keywords:
   [
     "reality",
